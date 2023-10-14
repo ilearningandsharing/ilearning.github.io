@@ -1,1 +1,50 @@
+header h1{
+    background-image: url("/Users/liboqian/Projects/Art and Craft Project/recource/image/pattern.jpeg");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
 
+.brushes h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.brushes a {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.Frames h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.Frames a {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.paints h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.paints a {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
